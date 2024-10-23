@@ -1,4 +1,4 @@
-package lab4;
+package lab5;
  
 class Circle {
 	Point tangent_point;
