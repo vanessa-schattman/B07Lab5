@@ -1,0 +1,11 @@
+Quadrilateral Class
+
+Overview
+The Quadrilateral Class is a simple implementation of a quadrilateral in a two-dimensional space with four ordered points A,B,C,and D. It provides functionalities to calculate various properties of a quadrilateral, such as its perimeter and its special properties.
+
+Features
+Create a quadrilateral with repect to four ordered points A,B,C and D
+Calulate perimeter of the quadrilateral
+Judge whether the specific quadrilateral is a parallelogram, a rectangle, a rhombus or a square
+
+Collaborators: Hanji Zhang , Yixi Le, and Lingke Meng
