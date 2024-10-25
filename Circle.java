@@ -1,8 +1,10 @@
-public class Circle {
+package B07lab5;
+ 
+class Circle {
 	Point tangent_point;
 	Point center;
-
-
+	
+	
 	Circle(Point center, Point tangent_point) {
 		this.tangent_point = tangent_point;
 		this.center = center;
@@ -25,6 +27,6 @@ public class Circle {
 		double radius = this.Radius();
 		return radius * radius * Math.PI;
 	}
-
+	
 
 }
