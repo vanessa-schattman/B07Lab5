@@ -4,7 +4,6 @@ Overview
 In this lab we create two new classes of shapes, Quadrilateral and circle, consisting of a type of manipulation of a twodimensional shape.
 
 Features
-
 Circle:
 Create a circle by specifying its center and tangent pointCalulate the radius and diameter of the circle
 Calculate the area of the circle using its radius
